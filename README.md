@@ -1,11 +1,13 @@
-# Pac-Man Animation
-# Description
-In a simulation scheduler, a Pac-man character is programmed to move in a fixed direction at a constant velocity. This digital Pac-man is designed to traverse from one location on the browser screen to the opposite end, mimicking the iconic arcade game's movement.
+# PACMAN
 
-# How to Run the Code:
+This HTML page features a Pac-Man animation moving horizontally within a container, controlled by JavaScript for direction, mouth animation, and boundary reversal, with a continuous animation loop triggered by setInterval every 100 milliseconds.
 
-Step 1: Save the HTML file with a .html extension.
+# How to run the code:
 
-Step 2: Click the "Go Live" button to open a new browser window. It will display the Pacman animation.
-# Future Enhancements:
-In the future, consider adding obstacles or interactive elements within the container for Pac-Man to interact with. You can also add sound effects or incorporate user controls for changing Pac-Man's direction and speed, enhancing the overall user experience.
+step1:Save the HTML file with .html extension.
+
+step2:Click the "Go Live" button.A new browser window will open, displaying Pacman animation.
+
+# Future Improvemennt:
+
+consider adding obstacles or interactive elements within the container for Pac-Man to interact with, adding sound effects, or incorporating user controls for changing Pac-Man's direction and speed,enhancing the overall user experience.
